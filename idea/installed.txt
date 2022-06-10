@@ -1,0 +1,6 @@
+Pythonid
+com.intellij.kubernetes
+dev.eltonsandre.intellij.spring.assistant.plugin
+org.asciidoctor.intellij.asciidoc
+org.jetbrains.kotlin
+org.sonarlint.idea
